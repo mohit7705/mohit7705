@@ -9,19 +9,18 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohit7705&show_icons=true&theme=radical)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mohit7705&show_icons=true&theme=radical&hide_border=true" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mohit7705&theme=radical)
+<img src="https://streak-stats.demolab.com?user=mohit7705&theme=radical&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohit7705&layout=compact&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=mohit7705&theme=radical&no-frame=true&no-bg=true)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mohit7705&layout=compact&theme=radical&hide_border=true" />
 
 ---
+
+ ## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohit7705&theme=radical&no-frame=true&margin-w=10" />
+
 
 ## 📌 Top Contributed Repos
 
