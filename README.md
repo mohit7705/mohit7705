@@ -22,3 +22,8 @@
 [![](https://visitcount.itsvg.in/api?id=mohit7705&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohit7705&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mohit7705&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohit7705&layout=compact&theme=radical)
